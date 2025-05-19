@@ -1,0 +1,8 @@
+proxmox_api_host: "https://192.168.30.140:8006"
+node: "node0"
+iso_file: "lubuntu-16.04.6-desktop-amd64.iso"
+vm_cores: 2
+vm_memory: 512
+vm_disk_size: 10
+vm_storage: local-lvm
+iso_storage: local
